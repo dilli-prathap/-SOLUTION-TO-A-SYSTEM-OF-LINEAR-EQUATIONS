@@ -14,7 +14,7 @@ Using the sp.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-```
+```python
 #Program to find the solution for the given linear equations.
 #Developed by: Dilli prathap
 #RegisterNumber: 212224110014
